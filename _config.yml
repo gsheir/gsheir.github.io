@@ -1,1 +1,4 @@
-theme: jekyll-theme-cayman
+theme: minima
+title: Example website
+header_pages:
+  - about.md
